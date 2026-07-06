@@ -3,7 +3,7 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/hersadev?style=social)
 
-Soy desarrollador web de Ceutí (Murcia) 🇪🇸, recién titulado en el grado superior de Desarrollo de Aplicaciones Web.
+Soy desarrollador web de Ceutí (Murcia) 🇪🇸, titulado en el grado superior de Desarrollo de Aplicaciones Web.
 
 Me gusta aprender construyendo: cada proyecto de esta cuenta es una excusa para dominar algo nuevo. Ahora mismo estoy centrado en el ecosistema JavaScript (React, Node.js) y en crear herramientas que hagan más fácil aprender a programar. Además de programar, creo contenido digital sobre tecnología y desarrollo.
 
