@@ -28,11 +28,11 @@ Aplicación web interactiva para aprender Git de manera sencilla: lecciones guia
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
+| [Pásame La Foto](https://github.com/hersadev/Pasame-La-Foto) | Galería colaborativa de fotos para eventos: los invitados escanean un QR y suben sus recuerdos al momento | Node.js, Express |
+| [A Tu Sitio](https://github.com/hersadev/A-Tu-Sitio) | Planificador de mesas para bodas y eventos, con arrastrar y soltar y exportación a PDF/Excel | React, Vite |
 | [Me-Apunto](https://github.com/hersadev/Me-Apunto) | Portal para que empresas anuncien sus eventos y el público pueda apuntarse | JavaScript |
-| [api-recetas](https://github.com/hersadev/api-recetas-0.5) | API para guardar recetas: listarlas, modificarlas, eliminarlas... | JavaScript |
 | [Combate-Pokemon](https://github.com/hersadev/Combate-Pokemon) | Enfréntate a la máquina en 6 combates Pokémon | Java |
 | [To-do-List](https://github.com/hersadev/To-do-List-Onboarding) | Lista de tareas, versión mejorada del onboarding en CodeArts | PHP |
-| [Prácticas Java DAW](https://github.com/hersadev/Practicas-Java-DAW) | Prácticas realizadas durante el grado superior de DAW | Java |
 
 ## 🛠️ Tecnologías
 
